@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Country Metric Map</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Country Metrics Visualization</h1>
+        <div class="controls">
+            <label for="metricSelect">Choose Metric:</label>
+            <select id="metricSelect">
+                <option value="GDP">GDP (USD Billions, PPP)</option>
+                <option value="GDP per Capita">GDP per Capita (USD, PPP)</option>
+                <option value="Health Expenditure (% GDP)">Health Expenditure (% GDP)</option>
+                <option value="Health Expenditure per Person">Health Expenditure per Person</option>
+                <option value="Unemployment (%)">Unemployment (%)</option>
+                <option value="Military Spending">Military Spending (% GDP)</option>
+            </select>
+
+            <label for="baselineCountry">Choose Baseline Country:</label>
+            <select id="baselineCountry">
+                <!-- Populated dynamically -->
+            </select>
+            <label for="yearSelect">Choose Year:</label>
+            <select id="yearSelect"></select>
+
+        </div>
+        <div id="map"></div>
+        <div id="tooltip" class="hidden">
+            <p><strong>Country:</strong> <span id="tooltip-country"></span></p>
+            <p><strong>Value:</strong> <span id="tooltip-value"></span></p>
+        </div>
+    </div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/topojson@3"></script>
+    <script src="main.js"></script>
+</body>
+</html>

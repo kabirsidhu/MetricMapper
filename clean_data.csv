@@ -1,0 +1,381 @@
+Country,Year,Metric Value,Metric
+Armenia,2018,37.5,GDP
+Benin,2018,36.3,GDP
+Burundi,2018,8.5,GDP
+Cameroon,2018,93.6,GDP
+Central African Republic,2018,4.4,GDP
+Chad,2018,24.4,GDP
+China,2018,21229.4,GDP
+Colombia,2018,710.9,GDP
+Congo (Rep.),2018,20.6,GDP
+Cote d'Ivoire,2018,126.2,GDP
+Dominican Republic,2018,188.2,GDP
+Ecuador,2018,197.5,GDP
+Gabon,2018,35.8,GDP
+Georgia,2018,55.4,GDP
+Guatemala,2018,143.3,GDP
+Guinea,2018,31.8,GDP
+Iran,2018,1214.5,GDP
+Macedonia,2018,31.9,GDP
+Peru,2018,425.9,GDP
+Armenia,2019,40.4,GDP
+Benin,2019,38.8,GDP
+Burundi,2019,8.7,GDP
+Cameroon,2019,96.9,GDP
+Central African Republic,2019,4.5,GDP
+Chad,2019,25.2,GDP
+China,2019,22492.6,GDP
+Colombia,2019,733.5,GDP
+Congo (Rep.),2019,20.6,GDP
+Cote d'Ivoire,2019,134.0,GDP
+Dominican Republic,2019,197.7,GDP
+Ecuador,2019,197.5,GDP
+Gabon,2019,36.2,GDP
+Georgia,2019,58.4,GDP
+Guatemala,2019,148.4,GDP
+Guinea,2019,33.8,GDP
+Iran,2019,1192.8,GDP
+Macedonia,2019,33.3,GDP
+Peru,2019,441.1,GDP
+Armenia,2020,37.4,GDP
+Benin,2020,40.3,GDP
+Burundi,2020,8.7,GDP
+Cameroon,2020,97.3,GDP
+Central African Republic,2020,4.5,GDP
+Chad,2020,24.8,GDP
+China,2020,22996.4,GDP
+Colombia,2020,681.8,GDP
+Congo (Rep.),2020,19.3,GDP
+Cote d'Ivoire,2020,136.7,GDP
+Dominican Republic,2020,184.4,GDP
+Ecuador,2020,182.2,GDP
+Gabon,2020,34.1,GDP
+Georgia,2020,55.7,GDP
+Guatemala,2020,145.5,GDP
+Guinea,2020,35.4,GDP
+Iran,2020,1134.5,GDP
+Macedonia,2020,31.9,GDP
+Peru,2020,399.9,GDP
+Armenia,2021,39.5,GDP
+Benin,2021,42.9,GDP
+Burundi,2021,8.8,GDP
+Cameroon,2021,100.7,GDP
+Central African Republic,2021,4.6,GDP
+Chad,2021,24.5,GDP
+China,2021,24861.3,GDP
+Colombia,2021,753.9,GDP
+Congo (Rep.),2021,18.6,GDP
+Cote d'Ivoire,2021,146.3,GDP
+Dominican Republic,2021,207.1,GDP
+Ecuador,2021,189.9,GDP
+Gabon,2021,35.4,GDP
+Georgia,2021,59.5,GDP
+Guatemala,2021,153.7,GDP
+Guinea,2021,37.4,GDP
+Iran,2021,1169.0,GDP
+Macedonia,2021,33.8,GDP
+Peru,2021,439.1,GDP
+Armenia,2018,13019,GDP per Capita
+Benin,2018,3236,GDP per Capita
+Burundi,2018,780,GDP per Capita
+Cameroon,2018,3801,GDP per Capita
+Central African Republic,2018,955,GDP per Capita
+Chad,2018,1614,GDP per Capita
+China,2018,15496,GDP per Capita
+Colombia,2018,15044,GDP per Capita
+Congo (Rep.),2018,4022,GDP per Capita
+Cote d'Ivoire,2018,5154,GDP per Capita
+Dominican Republic,2018,18135,GDP per Capita
+Ecuador,2018,11838,GDP per Capita
+Gabon,2018,17430,GDP per Capita
+Georgia,2018,15012,GDP per Capita
+Guatemala,2018,8935,GDP per Capita
+Guinea,2018,2666,GDP per Capita
+Iran,2018,15170,GDP per Capita
+Macedonia,2018,15371,GDP per Capita
+Peru,2018,13425,GDP per Capita
+Armenia,2019,14230,GDP per Capita
+Benin,2019,3426,GDP per Capita
+Burundi,2019,783,GDP per Capita
+Cameroon,2019,3901,GDP per Capita
+Central African Republic,2019,986,GDP per Capita
+Chad,2019,1646,GDP per Capita
+China,2019,16652,GDP per Capita
+Colombia,2019,15673,GDP per Capita
+Congo (Rep.),2019,3987,GDP per Capita
+Cote d'Ivoire,2019,5433,GDP per Capita
+Dominican Republic,2019,19190,GDP per Capita
+Ecuador,2019,11850,GDP per Capita
+Gabon,2019,17237,GDP per Capita
+Georgia,2019,16011,GDP per Capita
+Guatemala,2019,9115,GDP per Capita
+Guinea,2019,2786,GDP per Capita
+Iran,2019,14857,GDP per Capita
+Macedonia,2019,16070,GDP per Capita
+Peru,2019,13789,GDP per Capita
+Armenia,2020,13311,GDP per Capita
+Benin,2020,3505,GDP per Capita
+Burundi,2020,771,GDP per Capita
+Cameroon,2020,3867,GDP per Capita
+Central African Republic,2020,989,GDP per Capita
+Chad,2020,1592,GDP per Capita
+China,2020,17189,GDP per Capita
+Colombia,2020,14868,GDP per Capita
+Congo (Rep.),2020,3689,GDP per Capita
+Cote d'Ivoire,2020,5465,GDP per Capita
+Dominican Republic,2020,17934,GDP per Capita
+Ecuador,2020,10890,GDP per Capita
+Gabon,2020,15927,GDP per Capita
+Georgia,2020,15518,GDP per Capita
+Guatemala,2020,8800,GDP per Capita
+Guinea,2020,2865,GDP per Capita
+Iran,2020,14021,GDP per Capita
+Macedonia,2020,15432,GDP per Capita
+Peru,2020,12373,GDP per Capita
+Armenia,2021,14630,GDP per Capita
+Benin,2021,3789,GDP per Capita
+Burundi,2021,793,GDP per Capita
+Cameroon,2021,4064,GDP per Capita
+Central African Republic,2021,1021,GDP per Capita
+Chad,2021,1591,GDP per Capita
+China,2021,19338,GDP per Capita
+Colombia,2021,16894,GDP per Capita
+Congo (Rep.),2021,3617,GDP per Capita
+Cote d'Ivoire,2021,5940,GDP per Capita
+Dominican Republic,2021,20769,GDP per Capita
+Ecuador,2021,11661,GDP per Capita
+Gabon,2021,16332,GDP per Capita
+Georgia,2021,17152,GDP per Capita
+Guatemala,2021,9187,GDP per Capita
+Guinea,2021,3011,GDP per Capita
+Iran,2021,14385,GDP per Capita
+Macedonia,2021,16429,GDP per Capita
+Peru,2021,13547,GDP per Capita
+Armenia,2014,2.25,Health Expenditure (% GDP)
+Benin,2014,3.16,Health Expenditure (% GDP)
+Burundi,2014,6.78,Health Expenditure (% GDP)
+Cameroon,2014,2.58,Health Expenditure (% GDP)
+Central African Republic,2014,2.22,Health Expenditure (% GDP)
+Chad,2014,2.60,Health Expenditure (% GDP)
+China,2014,3.73,Health Expenditure (% GDP)
+Colombia,2014,4.63,Health Expenditure (% GDP)
+Congo (Rep.),2014,3.18,Health Expenditure (% GDP)
+Cote d'Ivoire,2014,3.31,Health Expenditure (% GDP)
+Dominican Republic,2014,3.96,Health Expenditure (% GDP)
+Ecuador,2014,5.26,Health Expenditure (% GDP)
+Gabon,2014,3.11,Health Expenditure (% GDP)
+Georgia,2014,7.11,Health Expenditure (% GDP)
+Guatemala,2014,5.67,Health Expenditure (% GDP)
+Guinea,2014,4.09,Health Expenditure (% GDP)
+Iran,2014,8.66,Health Expenditure (% GDP)
+Macedonia,2014,6.29,Health Expenditure (% GDP)
+Peru,2014,5.26,Health Expenditure (% GDP)
+Armenia,2015,2.81,Health Expenditure (% GDP)
+Benin,2015,3.17,Health Expenditure (% GDP)
+Burundi,2015,6.37,Health Expenditure (% GDP)
+Cameroon,2015,2.66,Health Expenditure (% GDP)
+Central African Republic,2015,1.91,Health Expenditure (% GDP)
+Chad,2015,2.40,Health Expenditure (% GDP)
+China,2015,3.82,Health Expenditure (% GDP)
+Colombia,2015,4.47,Health Expenditure (% GDP)
+Congo (Rep.),2015,3.28,Health Expenditure (% GDP)
+Cote d'Ivoire,2015,3.49,Health Expenditure (% GDP)
+Dominican Republic,2015,3.82,Health Expenditure (% GDP)
+Ecuador,2015,5.00,Health Expenditure (% GDP)
+Gabon,2015,3.40,Health Expenditure (% GDP)
+Georgia,2015,7.89,Health Expenditure (% GDP)
+Guatemala,2015,5.77,Health Expenditure (% GDP)
+Guinea,2015,4.48,Health Expenditure (% GDP)
+Iran,2015,8.66,Health Expenditure (% GDP)
+Macedonia,2015,6.33,Health Expenditure (% GDP)
+Peru,2015,5.23,Health Expenditure (% GDP)
+Armenia,2016,2.76,Health Expenditure (% GDP)
+Benin,2016,2.90,Health Expenditure (% GDP)
+Burundi,2016,4.69,Health Expenditure (% GDP)
+Cameroon,2016,2.56,Health Expenditure (% GDP)
+Central African Republic,2016,1.75,Health Expenditure (% GDP)
+Chad,2016,2.30,Health Expenditure (% GDP)
+China,2016,3.79,Health Expenditure (% GDP)
+Colombia,2016,4.48,Health Expenditure (% GDP)
+Congo (Rep.),2016,5.24,Health Expenditure (% GDP)
+Cote d'Ivoire,2016,3.97,Health Expenditure (% GDP)
+Dominican Republic,2016,3.85,Health Expenditure (% GDP)
+Ecuador,2016,4.36,Health Expenditure (% GDP)
+Gabon,2016,3.06,Health Expenditure (% GDP)
+Georgia,2016,8.44,Health Expenditure (% GDP)
+Guatemala,2016,5.83,Health Expenditure (% GDP)
+Guinea,2016,4.12,Health Expenditure (% GDP)
+Iran,2016,8.10,Health Expenditure (% GDP)
+Macedonia,2016,6.34,Health Expenditure (% GDP)
+Peru,2016,5.07,Health Expenditure (% GDP)
+Armenia,2017,2.71,Health Expenditure (% GDP)
+Benin,2017,3.54,Health Expenditure (% GDP)
+Burundi,2017,4.76,Health Expenditure (% GDP)
+Cameroon,2017,3.06,Health Expenditure (% GDP)
+Central African Republic,2017,1.75,Health Expenditure (% GDP)
+Chad,2017,2.45,Health Expenditure (% GDP)
+China,2017,3.67,Health Expenditure (% GDP)
+Colombia,2017,4.54,Health Expenditure (% GDP)
+Congo (Rep.),2017,4.45,Health Expenditure (% GDP)
+Cote d'Ivoire,2017,3.80,Health Expenditure (% GDP)
+Dominican Republic,2017,3.92,Health Expenditure (% GDP)
+Ecuador,2017,4.61,Health Expenditure (% GDP)
+Gabon,2017,2.75,Health Expenditure (% GDP)
+Georgia,2017,7.06,Health Expenditure (% GDP)
+Guatemala,2017,5.85,Health Expenditure (% GDP)
+Guinea,2017,4.10,Health Expenditure (% GDP)
+Iran,2017,8.66,Health Expenditure (% GDP)
+Macedonia,2017,6.06,Health Expenditure (% GDP)
+Peru,2017,5.00,Health Expenditure (% GDP)
+Armenia,2018,2.26,Health Expenditure (% GDP)
+Benin,2018,2.93,Health Expenditure (% GDP)
+Burundi,2018,5.08,Health Expenditure (% GDP)
+Cameroon,2018,3.03,Health Expenditure (% GDP)
+Central African Republic,2018,1.57,Health Expenditure (% GDP)
+Chad,2018,2.26,Health Expenditure (% GDP)
+China,2018,3.54,Health Expenditure (% GDP)
+Colombia,2018,4.45,Health Expenditure (% GDP)
+Congo (Rep.),2018,3.00,Health Expenditure (% GDP)
+Cote d'Ivoire,2018,3.24,Health Expenditure (% GDP)
+Dominican Republic,2018,3.93,Health Expenditure (% GDP)
+Ecuador,2018,4.62,Health Expenditure (% GDP)
+Gabon,2018,2.45,Health Expenditure (% GDP)
+Georgia,2018,7.11,Health Expenditure (% GDP)
+Guatemala,2018,5.62,Health Expenditure (% GDP)
+Guinea,2018,3.93,Health Expenditure (% GDP)
+Iran,2018,8.66,Health Expenditure (% GDP)
+Macedonia,2018,6.56,Health Expenditure (% GDP)
+Peru,2018,5.06,Health Expenditure (% GDP)
+Armenia,2019,2.56,Health Expenditure (% GDP)
+Benin,2019,2.97,Health Expenditure (% GDP)
+Burundi,2019,5.35,Health Expenditure (% GDP)
+Cameroon,2019,3.08,Health Expenditure (% GDP)
+Central African Republic,2019,1.77,Health Expenditure (% GDP)
+Chad,2019,2.37,Health Expenditure (% GDP)
+China,2019,3.54,Health Expenditure (% GDP)
+Colombia,2019,4.51,Health Expenditure (% GDP)
+Congo (Rep.),2019,3.58,Health Expenditure (% GDP)
+Cote d'Ivoire,2019,3.72,Health Expenditure (% GDP)
+Dominican Republic,2019,4.04,Health Expenditure (% GDP)
+Ecuador,2019,4.23,Health Expenditure (% GDP)
+Gabon,2019,2.69,Health Expenditure (% GDP)
+Georgia,2019,7.06,Health Expenditure (% GDP)
+Guatemala,2019,5.91,Health Expenditure (% GDP)
+Guinea,2019,4.09,Health Expenditure (% GDP)
+Iran,2019,8.66,Health Expenditure (% GDP)
+Macedonia,2019,6.63,Health Expenditure (% GDP)
+Peru,2019,5.22,Health Expenditure (% GDP)
+Armenia,2020,2.71,Health Expenditure (% GDP)
+Benin,2020,3.00,Health Expenditure (% GDP)
+Burundi,2020,5.04,Health Expenditure (% GDP)
+Cameroon,2020,3.17,Health Expenditure (% GDP)
+Central African Republic,2020,2.17,Health Expenditure (% GDP)
+Chad,2020,2.91,Health Expenditure (% GDP)
+China,2020,3.57,Health Expenditure (% GDP)
+Colombia,2020,4.93,Health Expenditure (% GDP)
+Congo (Rep.),2020,4.45,Health Expenditure (% GDP)
+Cote d'Ivoire,2020,3.44,Health Expenditure (% GDP)
+Dominican Republic,2020,4.62,Health Expenditure (% GDP)
+Ecuador,2020,4.13,Health Expenditure (% GDP)
+Gabon,2020,3.06,Health Expenditure (% GDP)
+Georgia,2020,7.97,Health Expenditure (% GDP)
+Guatemala,2020,6.35,Health Expenditure (% GDP)
+Guinea,2020,3.89,Health Expenditure (% GDP)
+Iran,2020,8.66,Health Expenditure (% GDP)
+Macedonia,2020,7.34,Health Expenditure (% GDP)
+Peru,2020,5.47,Health Expenditure (% GDP)
+Armenia,2018,422.3,Health Expenditure per Person
+Benin,2018,31.1,Health Expenditure per Person
+Burundi,2018,22.4,Health Expenditure per Person
+Cameroon,2018,53.2,Health Expenditure per Person
+Central African Republic,2018,53.7,Health Expenditure per Person
+Chad,2018,29.7,Health Expenditure per Person
+China,2018,501.1,Health Expenditure per Person
+Colombia,2018,513.2,Health Expenditure per Person
+Congo (Rep.),2018,49.5,Health Expenditure per Person
+Cote d'Ivoire,2018,72.2,Health Expenditure per Person
+Dominican Republic,2018,461.5,Health Expenditure per Person
+Ecuador,2018,495.2,Health Expenditure per Person
+Gabon,2018,231.5,Health Expenditure per Person
+Georgia,2018,308.3,Health Expenditure per Person
+Guatemala,2018,259.3,Health Expenditure per Person
+Guinea,2018,38.7,Health Expenditure per Person
+Iran,2018,415.7,Health Expenditure per Person
+Macedonia,2018,359.8,Health Expenditure per Person
+Peru,2018,332.4,Health Expenditure per Person
+Armenia,2019,524.0,Health Expenditure per Person
+Benin,2019,29.1,Health Expenditure per Person
+Burundi,2019,20.6,Health Expenditure per Person
+Cameroon,2019,54.0,Health Expenditure per Person
+Central African Republic,2019,37.2,Health Expenditure per Person
+Chad,2019,29.9,Health Expenditure per Person
+China,2019,535.1,Health Expenditure per Person
+Colombia,2019,495.3,Health Expenditure per Person
+Congo (Rep.),2019,48.6,Health Expenditure per Person
+Cote d'Ivoire,2019,75.1,Health Expenditure per Person
+Dominican Republic,2019,491.1,Health Expenditure per Person
+Ecuador,2019,486.5,Health Expenditure per Person
+Gabon,2019,215.3,Health Expenditure per Person
+Georgia,2019,293.4,Health Expenditure per Person
+Guatemala,2019,297.4,Health Expenditure per Person
+Guinea,2019,41.0,Health Expenditure per Person
+Iran,2019,475.9,Health Expenditure per Person
+Macedonia,2019,399.1,Health Expenditure per Person
+Peru,2019,369.1,Health Expenditure per Person
+Armenia,2018,16.8,Unemployment (%)
+Benin,2018,1.0,Unemployment (%)
+Burundi,2018,1.6,Unemployment (%)
+Cameroon,2018,4.5,Unemployment (%)
+Central African Republic,2018,6.9,Unemployment (%)
+Chad,2018,5.8,Unemployment (%)
+China,2018,4.6,Unemployment (%)
+Colombia,2018,9.9,Unemployment (%)
+Congo (Rep.),2018,11.2,Unemployment (%)
+Cote d'Ivoire,2018,9.3,Unemployment (%)
+Dominican Republic,2018,14.4,Unemployment (%)
+Ecuador,2018,5.4,Unemployment (%)
+Gabon,2018,20.5,Unemployment (%)
+Georgia,2018,19.2,Unemployment (%)
+Guatemala,2018,2.8,Unemployment (%)
+Guinea,2018,4.5,Unemployment (%)
+Iran,2018,12.1,Unemployment (%)
+Macedonia,2018,20.8,Unemployment (%)
+Peru,2018,3.4,Unemployment (%)
+Armenia,2021,20.90,Unemployment (%)
+Benin,2021,1.57,Unemployment (%)
+Burundi,2021,1.79,Unemployment (%)
+Cameroon,2021,0.61,Unemployment (%)
+Central African Republic,2021,7.51,Unemployment (%)
+Chad,2021,1.88,Unemployment (%)
+China,2021,4.82,Unemployment (%)
+Colombia,2021,14.34,Unemployment (%)
+Congo (Rep.),2021,23.01,Unemployment (%)
+Cote d'Ivoire,2021,3.47,Unemployment (%)
+Dominican Republic,2021,8.50,Unemployment (%)
+Ecuador,2021,6.43,Unemployment (%)
+Gabon,2021,22.26,Unemployment (%)
+Georgia,2021,10.51,Unemployment (%)
+Guatemala,2021,3.86,Unemployment (%)
+Guinea,2021,6.31,Unemployment (%)
+Iran,2021,9.22,Unemployment (%)
+Macedonia,2021,15.70,Unemployment (%)
+Peru,2021,4.83,Unemployment (%)
+Armenia,2021,4.9,Military Spending
+Benin,2021,0.7,Military Spending
+Burundi,2021,1.8,Military Spending
+Cameroon,2021,1.1,Military Spending
+Central African Republic,2021,1.5,Military Spending
+Chad,2021,2.2,Military Spending
+China,2021,1.9,Military Spending
+Colombia,2021,3.2,Military Spending
+Congo (Rep.),2021,0.7,Military Spending
+Cote d'Ivoire,2021,1.1,Military Spending
+Dominican Republic,2021,0.7,Military Spending
+Ecuador,2021,2.3,Military Spending
+Gabon,2021,1.7,Military Spending
+Georgia,2021,1.7,Military Spending
+Guatemala,2021,0.4,Military Spending
+Guinea,2021,2.5,Military Spending
+Iran,2021,2.3,Military Spending
+Macedonia,2021,1.4,Military Spending
+Peru,2021,1.4,Military Spending
